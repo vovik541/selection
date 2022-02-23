@@ -5,7 +5,7 @@
 *.iml
 *.ipr
 *.gradle
-*build
+*.class
 
 ### Java
 #
